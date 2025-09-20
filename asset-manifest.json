@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/roblox-news/static/css/main.2b3957ce.css",
-    "main.js": "/roblox-news/static/js/main.3b04c556.js",
-    "index.html": "/roblox-news/index.html",
-    "main.2b3957ce.css.map": "/roblox-news/static/css/main.2b3957ce.css.map",
-    "main.3b04c556.js.map": "/roblox-news/static/js/main.3b04c556.js.map"
+    "main.css": "./static/css/main.2b3957ce.css",
+    "main.js": "./static/js/main.c823b8d2.js",
+    "index.html": "./index.html",
+    "main.2b3957ce.css.map": "./static/css/main.2b3957ce.css.map",
+    "main.c823b8d2.js.map": "./static/js/main.c823b8d2.js.map"
   },
   "entrypoints": [
     "static/css/main.2b3957ce.css",
-    "static/js/main.3b04c556.js"
+    "static/js/main.c823b8d2.js"
   ]
 }
