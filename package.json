@@ -2,7 +2,7 @@
   "name": "roblox-news",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MakaroshkaLove.github.io/roblox-news",
+  "homepage": "https://makaroshkalove.github.io/roblox-news",
   "dependencies": {
     "@types/node": "^16.18.0",
     "@types/react": "^18.2.0",
