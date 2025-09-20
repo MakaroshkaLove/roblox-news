@@ -452,7 +452,7 @@ const Home: React.FC = () => {
               preload="metadata"
               poster=""
             >
-              <source src="/main.mp4" type="video/mp4" />
+              <source src="./main.mp4" type="video/mp4" />
               Ваш браузер не поддерживает видео.
             </Video>
           </VideoContainer>
